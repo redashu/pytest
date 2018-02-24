@@ -3,10 +3,9 @@
 from time import sleep
 
 def  check():
-	while True:
-		print("Hello world !!..")
-		sleep(2)
-		print("Deal with CI/CD !!..")
+	print("Hello world !!..")
+	sleep(2)
+	print("Deal with CI/CD !!..")
 
 
 
